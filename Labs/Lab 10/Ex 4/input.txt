@@ -1,0 +1,8 @@
+Giuseppe;Dinner;20.56;29/01/2021
+Tano;Conference;30.66;21/12/2020
+Lello;Lodging;100.88;10/01/2021
+Genoveffa;Dinner;3.90;01/01/2021
+Pippo;Lodging;300.89;06/01/2021
+Mario;Conference;80;30/11/2020
+Filippo;Conference;98.77;15/01/2021
+Michele;Dinner;59;27/06/2020
